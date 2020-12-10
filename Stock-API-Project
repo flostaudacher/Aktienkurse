@@ -1,0 +1,34 @@
+# SWP-Project
+
+<br/>
+<p align="center">
+  <a href="https://htl-anichstrasse.tirol">
+    <img src=".github/htl.gif" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">SWP-Project</h3>
+
+  <p align="center">
+    Get the daily adjusted stock price from an api and work with it.
+    <br/>
+    <a href="https://github.com/htl-anichstrasse/template/releases">Releases</a>
+    ·
+    <a href="https://github.com/htl-anichstrasse/template/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/htl-anichstrasse/template/issues">Request Feature</a>
+  </p>
+</p>
+
+## About the project
+Obligated project of the 4th class. Currently I get the adjusted StockValue from the AlphaVantage API. 
+
+Goals:
+
+## Contact
+
+If you have any questions about this project, please feel free to contact us.
+
+maxneuner - @tsn.at<br>
+HTL Anichstraße - htlinn@tsn.at
+
+<a href="https://htl-anichstrasse.tirol" target="_blank"><img src=".github/logo_background.png" width="180px"></a>
